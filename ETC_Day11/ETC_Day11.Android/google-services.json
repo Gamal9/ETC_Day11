@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521175207484",
+    "firebase_url": "https://etcday-8987f.firebaseio.com",
+    "project_id": "etcday-8987f",
+    "storage_bucket": "etcday-8987f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521175207484:android:392625cd4b3c751a7d7d39",
+        "android_client_info": {
+          "package_name": "com.etc.etc_day11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521175207484-nkagmdj9j1ks2pnurfqt7ev5ga72usc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgABjhCo5IFLO2LrTg_r2jYs3Rz3RjtQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521175207484-nkagmdj9j1ks2pnurfqt7ev5ga72usc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
